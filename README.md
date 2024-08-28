@@ -1,6 +1,4 @@
 - 👋 Hello! I'm @ebourgess
 - 🤔 I am interested in DevSecOps related stuff, personal knowledge, self-development and other stuff outside of IT
-- 🌱 I’m currently learning Golang
-- 🔭 I’m currently working on CKA certification
-- 📫 How to reach me: Either by email or [LinkedIN](https://www.linkedin.com/in/ebourgess/)
+- 📫 How to reach me: Either by [email](mailto:elias@ebourgess.dev) or [LinkedIN](https://www.linkedin.com/in/ebourgess/)
 - ✍️ I also blog sometimes [here](https://ebourgess.dev)
